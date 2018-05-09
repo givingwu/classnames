@@ -1,0 +1,10 @@
+{
+  "name": "classnames",
+  "version": "1.0.0",
+  "description": "Simpler than classNames maybe?",
+  "main": "index.js",
+  "repository": "https://github.com/Vuchan/classnames.git",
+  "author": "Vuchan Wu <givingwu@gmail.com> (vuchan.github.io)",
+  "license": "MIT",
+  "private": false
+}
