@@ -1,6 +1,8 @@
 /**
  * @param {Object} any*
  * @example
+ *  classNames({ a: 1, b: 0, c: 'c' })
+ *  // "a c"
  *  classNames('a', 'b', 'c', { d: 1, e: 0 })
  *  // "a b c d"
  *  classNames('a', 'b', 'c', { d: 1, e: 0 }, {f: 'e'})
