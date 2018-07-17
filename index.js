@@ -10,7 +10,7 @@
  *
  * @return {String} classnames string
  */
-export default const classNames = (...args) => {
+export default (...args) => {
   return args.map(t => {
     if(Array.isArray(t)) {
       return t.map(i => classNames(i)).join(' ')
